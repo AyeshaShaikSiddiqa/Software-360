@@ -1,0 +1,16 @@
+.softwareopeningpage1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.softwareopeningpage1-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.softwareopeningpage1-softwareopeningpage1 {
+  width: 1667px;
+  height: 697px;
+}
